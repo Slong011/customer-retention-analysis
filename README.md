@@ -1,7 +1,7 @@
 # Sales Overview and Customer Retention Analysis
 
 ## Project Overview  
-This project analyzes customer retention and its impact on overall sales using data from the AdventureWorks database. The analysis focuses on comparing returning customers with new customers over time, identifying trends in order quantity, and providing actionable business insights.
+This project examines customer retention and its effect on sales using data from the AdventureWorks database. It compares order quantities between new and returning customers over time, highlights key trends, and offers actionable business insights to support sales strategy and improve customer engagement.
 
 ## Contents  
 This folder contains the following key files:
